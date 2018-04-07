@@ -1,0 +1,102 @@
+ .para1{
+         height: 655px; 
+        background: url(pics/federico-respini-314377.jpg);
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+#logo{
+     width:60px;
+    height:40px;
+    margin: 10px 5px 0px 20px;
+}
+.head{
+    height:70px;
+}
+#nav
+{
+  width:920px;
+margin:0 auto;
+}
+
+.contain1{
+   margin-top:40px; 
+}
+#agro_text{
+   position: relative;
+    top:8px;
+    color: cornsilk;
+    font-weight: bold;
+}
+
+.nav_text{
+    position: relative;
+    top:3px;
+    color: white; 
+    font-size: 16px;
+}
+.nav_text:hover{
+    text-decoration: underline;
+}
+
+.sign_in{
+    width:200px;
+    padding: 12px 20px 0px 0px;
+    color: white;
+    float: right;
+}
+.log_text
+{
+    color: white;
+}
+
+.log_text:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#caption{
+    width:300px;
+    position: relative;
+    top:450px;
+    left:50px;
+    color: white;
+}
+.card:hover{
+    box-shadow: 0px 0px 7px 7px  #EEEEEE; 
+}
+.card img{
+    width:100%;
+    height:150px;
+}
+.cards{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.jumbo{
+    color: white;
+    background-color: #007192;
+    height: 300px;
+   
+}
+#foot_text{
+    top:250px;
+    left:-250px;
+    position: relative;
+    
+}
+
+.col
+{
+    margin-top: 30px;
+    width:150px !important;
+    float: left;
+      position: relative;
+    left:230px;
+}
+.col img{
+    width:30px;
+    height:30px;
+}
